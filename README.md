@@ -12,7 +12,7 @@ Make sure you have the necessary dependencies installed before running the scrip
 
 ## Usage
 - Make sure you have ROS running and the assignment_2_2022 package set up.
-- Run the script using the command python <script_name>.py.
+- Run the script.
 - The script will initialize the ROS node and set up the necessary publishers, subscribers, and action clients.
 - You will see an input field where you can enter the goal coordinates (x and y) for the robot.
 - Click the "Send Goal" button to send the goal to the robot. The robot will start moving towards the goal.
