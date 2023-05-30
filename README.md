@@ -8,9 +8,7 @@ In this notebook, widgets will be utilized primarily to achieve the following ob
 - Displaying the positions of the robot and the target in the form of a plot, using FuncAnimation.
 - Tracking the targets that are set or cancelled within the environment, including their distance, goal, and quantity.
 - Providing information about the distance to the nearest obstacle, which can be shown either in a text box or plotted if the laser scanner is used.
-This Python script provides a robot controller for goal reaching and visualizes the robot's position and sensor data in real-time using Matplotlib and IPython widgets.
-
-The script uses the %matplotlib widget magic command to enable interactive plotting in Jupyter notebooks. Make sure you are running the script in an environment that supports this feature.
+This Python script provides a robot controller for goal reaching and visualizes the robot's position and sensor data in real-time using Matplotlib and IPython widgets. 
 
 ## Dependencies
 Python 3
