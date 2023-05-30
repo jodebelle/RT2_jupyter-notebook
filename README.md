@@ -42,5 +42,3 @@ Make sure you have the necessary dependencies installed before running the scrip
 ### Laser Callback Function
 - Callback function for the LaserScan topic.
 - Updates the value of the closest obstacle distance.
-
-Enjoy using the robot controller and visualizer!
